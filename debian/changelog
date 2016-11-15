@@ -1,3 +1,9 @@
+gtest (1.7.0-4pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Tue, 15 Nov 2016 10:30:44 +0000
+
 gtest (1.7.0-4) unstable; urgency=medium
 
   * patches/gtest-freebsd-death-test.patch: New.  Enable death tests for

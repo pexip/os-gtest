@@ -1,13 +1,15 @@
 Source: gtest
 Homepage: http://code.google.com/p/googletest/
 Section: devel
-Maintainer: Steve M. Robbins <smr@debian.org>
-Uploaders: Giuseppe Iuculano <iuculano@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Steve M. Robbins <smr@debian.org>
+XSBC-Pexip-Original-Uploaders: Giuseppe Iuculano <iuculano@debian.org>
 Priority: optional
 Build-Depends: debhelper (>= 9), autotools-dev, cmake, python
 Standards-Version: 3.9.5
 Vcs-Git: git://git.debian.org/git/collab-maint/gtest.git
 Vcs-Browser: http://git.debian.org/?p=collab-maint/gtest.git
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ stretch
 
 Package: libgtest-dev
 Architecture: any
